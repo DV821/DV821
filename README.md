@@ -9,8 +9,7 @@ I am Dharmik Vara, final year undergrad student pursuing BE in Information Techn
 - 🔭 I’m into Data Science field mostly computer vision and natural language processing.
 - 🌱 I’m currently learning deep learning.
 - 👯 I’m looking to collaborate on deep learning projects using python and tensorflow API.
-- 🤔 I’m looking for help with internships and selecting number of hidden layers and neurons to start creating neural networks.
+- 🤔 I’m looking for help with internships.
 - 💬 Ask me about Python and ML
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/dharmik-vara-8aba3a19a/) or Mail me at dharmikvara62@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't need any caffeine or music to work.
